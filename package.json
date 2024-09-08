@@ -23,6 +23,8 @@
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-vue": "^5.1.2",
+    "@vue/compiler-sfc": "^3.5.3",
+    "@vue/runtime-core": "^3.5.3",
     "typescript": "^5.5.4",
     "vite": "^5.4.1",
     "vue-tsc": "^2.0.29"

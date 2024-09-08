@@ -10,7 +10,7 @@ export default {
     // msg: { type: String, required: true }
   },
   data: () => ({
-    movies = [],
+    movies: [],
     period: ''
   }),
   computed: {
@@ -27,7 +27,7 @@ export default {
     this.movies = fetchNewMovies() 
   },
   methods: {
-    asysn const movies = () => await fetchNewMovies(),
+
   }
 }
 
